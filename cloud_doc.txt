@@ -1,1 +1,34 @@
-jds
+clone the repo file from sir repositery
+|
+take the server.js file
+|
+make own new repo and clone it to local device
+|
+then copy the server.js file from sir repo and paste to own local repo 
+|
+use command
+-git status
+-git add .
+-git commit 
+-git push <url>
+|
+open aws linux machine
+|
+connect vm
+|
+git clone to dir
+|
+command use 
+-git clone <own git repo url>
+-ls
+**prerequsite == apt install nodejs
+-check ==node -v
+|
+run  file 
+command use 
+-node filename.js
+|
+view the on browser with ip and host port
+
+
+
